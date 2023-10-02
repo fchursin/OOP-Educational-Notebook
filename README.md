@@ -59,10 +59,6 @@ To make the most of this codebook, follow these steps:
 3. Keep an eye on updates, as this codebook is a work in progress.
 4. Contribute by suggesting improvements, corrections, or additional content.
 
-## Contributing <a name="contributing"></a>
-
-Contributions to this codebook are welcome! If you have suggestions, corrections, or would like to contribute additional content, please follow the guidelines in the `CONTRIBUTING.md` file in this repository.
-
 ## License <a name="license"></a>
 
 This codebook is distributed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
