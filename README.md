@@ -1,4 +1,4 @@
-# OOP-Educational-Codebook
+# OOP-Educational-Notebook
 
 ## Author
 - Created by: Fedor Chursin
@@ -7,7 +7,7 @@
 
 ## Overview
 
-Welcome to the OOP-Educational-Codebook! This codebook serves as a comprehensive guide to Object-Oriented Programming (OOP) in Python. It aims to provide a clear explanation of the four main pillars of OOP and a comparison between OOP and procedural programming. You can explore [the full OOP notebook at once](https://github.com/ur0vn1t31/OOP-Educational-Codebook-WIP/blob/main/OOP.ipynb) or go to [the OOP_in_to_parts directory](https://github.com/ur0vn1t31/OOP-Educational-Codebook-WIP/tree/main/OOP_in_two_parts) where I split the material into two parts to make it easier to understand!
+Welcome to the OOP-Educational-Notebook! This codebook serves as a comprehensive guide to Object-Oriented Programming (OOP) in Python. It aims to provide a clear explanation of the four main pillars of OOP and a comparison between OOP and procedural programming. You can explore [the full OOP notebook at once](https://github.com/ur0vn1t31/OOP-Educational-Codebook-WIP/blob/main/OOP.ipynb) or go to [the OOP_in_to_parts directory](https://github.com/ur0vn1t31/OOP-Educational-Codebook-WIP/tree/main/OOP_in_two_parts) where I split the material into two parts to make it easier to understand!
 
 ## Table of Contents
 
@@ -67,4 +67,4 @@ Contributions to this codebook are welcome! If you have suggestions, corrections
 
 This codebook is distributed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
 
-Thank you for exploring the OOP-Educational-Codebook. Happy coding!
+Thank you for exploring the OOP-Educational-Notebook. Happy coding!
