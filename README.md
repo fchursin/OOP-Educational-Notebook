@@ -7,7 +7,7 @@
 
 ## Overview
 
-Welcome to the OOP-Educational-Codebook! This codebook serves as a comprehensive guide to Object-Oriented Programming (OOP) in Python. It is a work in progress and aims to provide a clear explanation of the four main pillars of OOP and a comparison between OOP and procedural programming.
+Welcome to the OOP-Educational-Codebook! This codebook serves as a comprehensive guide to Object-Oriented Programming (OOP) in Python. It is aims to provide a clear explanation of the four main pillars of OOP and a comparison between OOP and procedural programming. You can explore [the full OOP notebook at once](https://github.com/ur0vn1t31/OOP-Educational-Codebook-WIP/blob/main/OOP.ipynb) or go to [the OOP_in_to_parts directory](https://github.com/ur0vn1t31/OOP-Educational-Codebook-WIP/tree/main/OOP_in_two_parts) where I splitted the material into two parts to make it easier to understand!
 
 ## Table of Contents
 
@@ -23,6 +23,10 @@ Welcome to the OOP-Educational-Codebook! This codebook serves as a comprehensive
 ## Introduction <a name="introduction"></a>
 
 Object-Oriented Programming (OOP) is a powerful paradigm used in various programming languages, including Python. It provides a structured way of organizing code, making it more modular, maintainable, and reusable. This codebook aims to explain OOP principles in Python and highlight its advantages over procedural programming.
+
+## Comparison with Procedural Programming <a name="comparison"></a>
+
+This section will provide a detailed comparison between OOP and procedural programming, highlighting the advantages and disadvantages of each approach.
 
 ## Object-Oriented Programming (OOP) <a name="oop"></a>
 
@@ -45,10 +49,6 @@ Polymorphism enables objects of different classes to be treated as objects of a 
 ### 4. Abstraction <a name="abstraction"></a>
 
 Abstraction is the process of simplifying complex reality by modeling classes based on the essential characteristics and behaviors they share. It hides the unnecessary details and exposes only what is relevant, making the code more manageable and understandable.
-
-## Comparison with Procedural Programming <a name="comparison"></a>
-
-This section will provide a detailed comparison between OOP and procedural programming, highlighting the advantages and disadvantages of each approach.
 
 ## How to Use this Codebook <a name="how-to-use"></a>
 
