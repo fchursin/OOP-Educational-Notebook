@@ -7,7 +7,7 @@
 
 ## Overview
 
-Welcome to the OOP-Educational-Codebook! This codebook serves as a comprehensive guide to Object-Oriented Programming (OOP) in Python. It is aims to provide a clear explanation of the four main pillars of OOP and a comparison between OOP and procedural programming. You can explore [the full OOP notebook at once](https://github.com/ur0vn1t31/OOP-Educational-Codebook-WIP/blob/main/OOP.ipynb) or go to [the OOP_in_to_parts directory](https://github.com/ur0vn1t31/OOP-Educational-Codebook-WIP/tree/main/OOP_in_two_parts) where I splitted the material into two parts to make it easier to understand!
+Welcome to the OOP-Educational-Codebook! This codebook serves as a comprehensive guide to Object-Oriented Programming (OOP) in Python. It aims to provide a clear explanation of the four main pillars of OOP and a comparison between OOP and procedural programming. You can explore [the full OOP notebook at once](https://github.com/ur0vn1t31/OOP-Educational-Codebook-WIP/blob/main/OOP.ipynb) or go to [the OOP_in_to_parts directory](https://github.com/ur0vn1t31/OOP-Educational-Codebook-WIP/tree/main/OOP_in_two_parts) where I split the material into two parts to make it easier to understand!
 
 ## Table of Contents
 
