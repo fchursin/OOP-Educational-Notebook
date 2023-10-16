@@ -22,7 +22,7 @@ Welcome to the OOP-Educational-Notebook! This codebook serves as a comprehensive
 
 ## Introduction <a name="introduction"></a>
 
-Object-Oriented Programming (OOP) is a powerful paradigm used in various programming languages, including Python. It provides a structured way of organizing code, making it more modular, maintainable, and reusable. This codebook aims to explain OOP principles in Python and highlight its advantages over procedural programming.
+Object-Oriented Programming (OOP) is a powerful paradigm used in various programming languages, including Python. It provides a structured way of organizing code, making it more modular, maintainable, and reusable. This notebook aims to explain OOP principles in Python and highlight its advantages over procedural programming.
 
 ## Comparison with Procedural Programming <a name="comparison"></a>
 
