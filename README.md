@@ -3,7 +3,7 @@
 ## Author
 - Created by: Fedor Chursin
 - Contact: fedorchursinsk@gmail.com
-- GitHub: ur0vn1t31
+- GitHub: fchursin
 
 ## Overview
 
