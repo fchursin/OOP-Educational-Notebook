@@ -30,7 +30,7 @@ This section will provide a detailed comparison between OOP and procedural progr
 
 ## Object-Oriented Programming (OOP) <a name="oop"></a>
 
-OOP is a programming paradigm that revolves around the concept of objects. In Python, everything is an object, including data and functions. This paradigm encourages the organization of code into classes and objects, promoting code reusability and abstraction.
+OOP is a programming paradigm that revolves around the concept of objects. In Python, everything is an object, including data and functions. This paradigm encourages the organization of code into classes, promoting code reusability and abstraction.
 
 ## The Four Pillars of OOP <a name="four-pillars"></a>
 
